@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: rgb(224, 169, 169) !important;
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important;
+}
+
+.parts{
+  margin-top: 10px;
+  padding: 10px;
+}

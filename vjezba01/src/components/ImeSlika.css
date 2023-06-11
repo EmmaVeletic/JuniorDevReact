@@ -1,0 +1,31 @@
+.picture > img {
+    border-radius: 50%;
+    width:200px;
+    height:200px; 
+    border: 7px solid rgb(119, 8, 8);
+    margin-top: 10px;
+    padding: 10px;
+
+  }
+
+  .firstPart > h1{
+    text-align: center;
+    color: rgb(119, 8, 8);
+    font-size: 50px;
+    font-weight: bold !important;
+    display: inline;
+    
+  }
+
+ .firstPart > h2{
+    text-decoration: line-through;
+    text-decoration-color: yellow;
+    text-align: center;
+    color:rgb(119, 8, 8);
+    font-size: 50px;
+    font-weight: bold !important;
+    display: inline;
+  }
+
+
+

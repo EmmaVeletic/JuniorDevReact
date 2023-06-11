@@ -1,0 +1,88 @@
+.main-container {
+    max-width: 500px;
+    min-width: 250px;
+    background: #330883;
+    border-radius: 4px;
+    margin-top: 100px;
+    padding: 30px 60px;
+  }
+
+  .question {
+    font-size: 32px;
+    font-weight: 500;
+    color: #db98db;
+  }
+
+  .main-container h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+  }
+  
+  .answers ul {
+    margin-top: 20px;
+    margin-left: -40px;
+  }
+  
+  .answers ul li {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-weight: 500;
+    font-size: 16px;
+    background: white;
+    border: 1px solid #db98db;
+    border-radius: 12px;
+    padding: 11px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+
+  .result h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .result p {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .result p span {
+    color: #db98db;
+    font-size: 22px;
+  }
+
+  .main-button {
+    background-color: #db98db; 
+    color: #330883;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+  .main-button:hover{
+    background-color: #da09da;
+    color:#330883;
+  }
+
+  .answers ul .selected {
+    background: #db98db;
+    border: 1px solid white;
+  }
+
+ .correct{
+    color:greenyellow;
+    
+ }
+
+ .wrong{
+    color:rgb(199, 15, 15);
+    
+ }
+  
+  

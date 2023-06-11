@@ -1,0 +1,20 @@
+.main{
+    display:block;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+
+.child{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+h3{
+    color: rgb(148, 25, 25);
+}

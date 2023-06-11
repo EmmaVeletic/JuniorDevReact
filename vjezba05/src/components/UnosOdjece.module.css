@@ -1,0 +1,42 @@
+.select-menu {
+    width: 15rem;
+    height: 2rem;
+    background-color: rgb(179, 123, 169);
+    color: white;
+    text-align: center;
+}
+
+.select-menu option {
+    color: white;
+    background-color: rgb(179, 123, 169);
+    text-align: center;
+}
+
+.input{
+    width: 15rem;
+    height: 2rem;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid purple;
+    background-color: rgb(179, 123, 169);
+    color: white;
+}
+
+label{
+    font-style: oblique;
+    font-size: large;
+    font-weight: 800;
+}
+
+.forma{
+display: grid;
+column-gap: 50px;
+grid-template-columns: auto auto auto;
+padding: 5px;
+}
+
+.forma p{
+
+text-align: center;
+      
+}

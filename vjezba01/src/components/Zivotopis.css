@@ -1,0 +1,19 @@
+.secondPart{
+    background-color: brown !important;
+    border-radius: 30px !important;
+    color: yellow;
+}
+
+.Title{
+    color: yellow !important;
+    font-size: 40px !important;
+}
+
+.text-muted > a{
+
+    color:yellow;
+}
+.text > span{
+    font-style: oblique;
+    text-align: left !important;
+}
